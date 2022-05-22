@@ -1267,10 +1267,15 @@ a {
   }
 }
 .cid-sWK8C1AyL9 {
-  background-image: url("../../../assets/images/mbr-4-1920x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1089.jpg");
 }
 .cid-sWK8C1AyL9 .mbr-section-title {
-  color: #bbbbbb;
+  color: #232323;
+  text-align: left;
+}
+.cid-sWK8C1AyL9 .mbr-text,
+.cid-sWK8C1AyL9 .mbr-section-btn {
+  text-align: left;
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
